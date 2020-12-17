@@ -1,5 +1,5 @@
 
-// Project name: Bubble Sort//
+// Project name: Bubble Sort
 // Author: Jan Kuczaj       
 // Date: 18.09.2020 r.      
 
